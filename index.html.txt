@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agam Saroop Garg - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="language-toggle">
+      <button id="toggle-language">Switch to English</button>
+    </div>
+    <div class="profile">
+      <img src="images/profile.jpg" alt="Agam Saroop Garg">
+      <h1>Agam Saroop Garg</h1>
+      <p>Software Engineer | Data Scientist</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#about">Über Mich</a></li>
+        <li><a href="#experience">Berufserfahrung</a></li>
+        <li><a href="#education">Bildung</a></li>
+        <li><a href="#certifications">Zertifizierungen</a></li>
+        <li><a href="#projects">Projekte</a></li>
+        <li><a href="#contact">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>Über Mich</h2>
+    <p>Hier kommt eine kurze Beschreibung über dich.</p>
+  </section>
+
+  <section id="experience">
+    <h2>Berufserfahrung</h2>
+    <ul>
+      <li>
+        <h3>Software Engineer bei XYZ</h3>
+        <p>Jan 2020 - Heute</p>
+        <p>Beschreibung deiner Rolle und Verantwortlichkeiten.</p>
+      </li>
+      <!-- Add more experiences -->
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Bildung</h2>
+    <ul>
+      <li>
+        <h3>Master in Informatik - Technische Universität München</h3>
+        <p>2018 - 2020</p>
+      </li>
+      <!-- Add more education -->
+    </ul>
+  </section>
+
+  <section id="certifications">
+    <h2>Zertifizierungen</h2>
+    <ul>
+      <li>AWS Certified Solutions Architect</li>
+      <li>Google Data Analytics Professional Certificate</li>
+      <!-- Add more certifications -->
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projekte</h2>
+    <div class="project-grid">
+      <div class="project">
+        <img src="images/project1.jpg" alt="Project 1">
+        <h3>Projekt 1</h3>
+        <p>Beschreibung des Projekts.</p>
+      </div>
+      <!-- Add more projects -->
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Kontakt</h2>
+    <p>Email: agam.garg@example.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/agam-saroop-garg">Agam Saroop Garg</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Agam Saroop Garg. Alle Rechte vorbehalten.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
