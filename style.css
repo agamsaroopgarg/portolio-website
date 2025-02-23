@@ -47,8 +47,7 @@ h2 {
 
 .project-grid {
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  flex-wrap: nowrap;
 }
 
 .project {
