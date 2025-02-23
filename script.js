@@ -1,6 +1,6 @@
 const languageToggle = document.getElementById('toggle-language');
 const elementsToTranslate = {
-  'about': { de: 'Über Mich', en: 'About Me' },
+  'about': { de: 'Zusammenfassend', en: 'About Me' },
   'experience': { de: 'Berufserfahrung', en: 'Experience' },
   'education': { de: 'Bildung', en: 'Education' },
   'erfolge': { de: 'erfolge', en: 'Achievements' },
