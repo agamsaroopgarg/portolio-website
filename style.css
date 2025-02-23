@@ -45,20 +45,6 @@ h2 {
   padding-bottom: 10px;
 }
 
-.project-grid {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.project {
-  background: #fff;
-  padding: 0px;
-  border: 0px solid #fff;
-  border-radius: 0px;
-  width: calc(33.333% - 40px);
-  box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
-}
-
 footer {
   text-align: center;
   padding: 20px;
