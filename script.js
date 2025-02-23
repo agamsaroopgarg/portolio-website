@@ -3,7 +3,7 @@ const elementsToTranslate = {
   'about': { de: 'Über Mich', en: 'About Me' },
   'experience': { de: 'Berufserfahrung', en: 'Experience' },
   'education': { de: 'Bildung', en: 'Education' },
-  'certifications': { de: 'Zertifizierungen', en: 'Certifications' },
+  'erfolge': { de: 'erfolge', en: 'Achievements' },
   'projects': { de: 'Projekte', en: 'Projects' },
   'contact': { de: 'Kontakt', en: 'Contact' },
 };
